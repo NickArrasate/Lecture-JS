@@ -12,3 +12,42 @@ img.intro {
   margin-left: auto;
   margin-right: auto;
 }
+
+.par1:hover h2, .par2:hover h2, .par3:hover h2{
+  text-decoration: underline;
+}
+
+.par1:hover, .par2:hover, .par3:hover{
+  cursor: pointer;
+}
+
+.background1 {
+  background-color: yellow;
+  border-style: dashed;
+}
+
+.background2 {
+  background-color: tomato;
+  color: white;
+  border-style: dotted;
+}
+
+.background3 {
+  background-color: black;
+  color: white;
+  border-style: ridge;
+}
+.buttons {
+text-align: center;
+
+}
+
+.backgroundred {
+  background-color: tomato;
+}
+.backgroundgreen {
+  background-color: mediumseagreen;
+}
+.backgroundblue {
+  background-color: aqua;
+}
